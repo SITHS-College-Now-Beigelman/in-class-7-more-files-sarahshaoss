@@ -54,4 +54,10 @@ int main()
     }
   return 0;
   //end program
+
+/* Output:
+John: Master - Good Job!
+Alex: Congrats! You are an Expert!
+Matthew: Beginner - Keep Practicing! */
+
 }
